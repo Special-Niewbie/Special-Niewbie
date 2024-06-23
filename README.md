@@ -39,6 +39,8 @@ Give a ⭐️ if this project helped you! and If you like my work, support me to
 
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/special_niewbie)
+
+
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/CrisDonate)
 
 ## 📝 License
