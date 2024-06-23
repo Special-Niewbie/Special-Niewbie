@@ -44,6 +44,3 @@ Give a ⭐️ if this project helped you! and If you like my work, support me to
 ## 📝 License
 
 Copyright © 2024 [Special Newbie - (Cris)](https://github.com/Special-Niewbie). This project is [MIT](https://github.com/Special-Niewbie/your-repo-name/blob/master/LICENSE) licensed.
-
-## 💬 Motto
-"If your actions inspire others to dream more, learn more, do more and become more, you are a leader. My playful nickname as a self-taught developer. It represents my challenge to overcome experienced developer's arrogance and my inspiration for beginners."
