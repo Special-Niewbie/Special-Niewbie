@@ -35,7 +35,7 @@ Contributions, issues and feature requests are welcome! Feel free to check [issu
 
 ## 🥰 Support
 
-Give a ⭐️ if this project helped you! and If you like my work, support me to create more! 😎👍<br>
+Give a ⭐️ if the projects helped you and you have the possibility, please consider making a small donation to support the ongoing developments. Your generosity is greatly appreciated to support me to create more! 😎👍<br>
 
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/special_niewbie)
