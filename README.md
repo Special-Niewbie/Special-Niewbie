@@ -15,7 +15,7 @@
   <summary><h2>Getting Started</h2></summary>
   <ul>
     <li><a href="https://github.com/Special-Niewbie"> Homepage</a></li>
-    <li><a href="">HandleOS (Cooming soon)</a></li>
+    <li><a href="#">HandleOS (Coming soon)</a></li>
   </ul>
 </details>
 
@@ -23,8 +23,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Special-Niewbie&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Special-Niewbie&layout=compact&langs_count=7&theme=radical"/>
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Special-Niewbie&no-bg=true"/>
-  <a href="https://github.com/Special-Niewbie/github-stats">
-  <a href="https://github.com/Special-Niewbie/github-achievements">
 </div>
 
 ## 🤝 Contributing 🤝
