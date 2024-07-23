@@ -14,8 +14,7 @@
 <details>
   <summary><h2>Getting Started</h2></summary>
   <ul>
-    <li><a href="https://Special-Niewbie.github.io/"> Homepage</a></li>
-    <li><a href="https://github.com/Special-Niewbie/Personal-name/wiki/">📚 Wiki</a></li>
+    <li><a href="https://github.com/Special-Niewbie"> Homepage</a></li>
     <li><a href="">HandleOS (Cooming soon)</a></li>
   </ul>
 </details>
