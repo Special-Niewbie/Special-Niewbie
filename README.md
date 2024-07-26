@@ -15,8 +15,8 @@
 <ul>
   <li>
     <div style="display: flex; align-items: center;">
-      <img height="160" src="https://github.com/Special-Niewbie/HandleOS/raw/main/Git_assets/HandleOS_Box.png"/>
       <a href="https://github.com/Special-Niewbie/HandleOS" style="font-size: 1.2em; margin-left: 80px;">HandleOS</a>
+      <img height="160" src="https://github.com/Special-Niewbie/HandleOS/raw/main/Git_assets/HandleOS_Box.png"/>
     </div>
   </li>
 </ul>
