@@ -16,12 +16,11 @@
   <li><a href="https://github.com/Special-Niewbie">Homepage</a></li>
   <li>
     <div style="display: flex; align-items: center;">
-      <img height="160" src="Git_assets/HandleOS_Box.png" alt="HandleOS Box"/>
+      <img height="160" src="https://github.com/Special-Niewbie/HandleOS/tree/main/Git_assets/HandleOS_Box.png" alt="HandleOS Box"/>
       <a href="#" style="font-size: 1.2em; margin-left: 10px;">HandleOS</a>
     </div>
   </li>
 </ul>
-
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Special-Niewbie&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
