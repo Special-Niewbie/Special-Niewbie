@@ -13,11 +13,10 @@
 <!-- TABLE OF CONTENTS -->
 <h2>Getting Started</h2>
 <ul>
-  <li><a href="https://github.com/Special-Niewbie">Homepage</a></li>
   <li>
     <div style="display: flex; align-items: center;">
       <img height="160" src="https://github.com/Special-Niewbie/HandleOS/raw/main/Git_assets/HandleOS_Box.png"/>
-      <a href="#" style="font-size: 1.2em; margin-left: 10px;">HandleOS</a>
+      <a href="https://github.com/Special-Niewbie/HandleOS" style="font-size: 1.2em; margin-left: 80px;">HandleOS</a>
     </div>
   </li>
 </ul>
