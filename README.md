@@ -15,7 +15,7 @@
 <ul>
   <li><a href="https://github.com/Special-Niewbie/HandleOS" style="font-size: 1.2em; margin-bottom: 10px; display: block;">HandleOS</a></li>
   <li>    
-    <img height="160" src="https://github.com/Special-Niewbie/HandleOS/raw/main/Git_assets/HandleOS_Box.png" alt="HandleOS Box" style="display: block; margin-top: 10px;"> <img height="260" src="Git_assets/HandleOS_GitVid.gif"/>
+    <img height="160" src="https://github.com/Special-Niewbie/HandleOS/raw/main/Git_assets/HandleOS_Box.png" alt="HandleOS Box" style="display: block; margin-top: 10px;"> <img height="260" src="https://github.com/Special-Niewbie/HandleOS/raw/main/Git_assets/HandleOS_GitVid.gif"/>
   </li>
 </ul>
 
