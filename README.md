@@ -25,6 +25,19 @@
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Special-Niewbie&no-bg=true"/>
 </div>
 
+
+<h2 align="center">🐍 My Contributions</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Special-Niewbie/Special-Niewbie/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Special-Niewbie/Special-Niewbie/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Special-Niewbie/Special-Niewbie/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+
+
 ## 🤝 Contributing 🤝
 
 Contributions, issues and feature requests are welcome! Feel free to check [issues page](https://github.com/Special-Niewbie/your-repo-name/issues). You can also take a look at the [contributing guide](https://github.com/github/docs/blob/main/CONTRIBUTING.md) or [GitHub Pages Documentation](https://docs.github.com/en).
