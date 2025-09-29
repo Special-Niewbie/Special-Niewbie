@@ -16,11 +16,11 @@
 
 
 <div style="text-align: center; margin-bottom: 20px;">
-  <img height="42" src="https://github.com/Special-Niewbie/HandleOS/raw/main/Git_assets/hos_icon.png" alt="HandleOS Icon" style="display: block; margin: 0 auto;">
+  <img height="42" src="https://github.com/Special-Niewbie/HandleOS/raw/main/Git_assets/hos_icon.png" alt="HandleOS Icon" style="display: block; margin: 0 auto;" align="center">
 </div>
 
 <ul>
-  <li><a href="https://www.handle-os.com" style="font-size: 1.2em; margin-bottom: 10px; display: block;">HandleOS Official Website</a></li>
+  <li><a href="https://www.handle-os.com" style="font-size: 1.6em; margin-bottom: 10px; display: block;">HandleOS Official Website</a></li>
 <br>
   <li><a href="https://github.com/Special-Niewbie/HandleOS" style="font-size: 1.2em; margin-bottom: 10px; display: block;">HandleOS here in GitHub</a></li>
   <li>    
