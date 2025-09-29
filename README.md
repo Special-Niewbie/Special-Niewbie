@@ -4,20 +4,30 @@
 
 ![](https://komarev.com/ghpvc/?username=Special-Niewbie&color=red&label=PROFILE+VIEWS&style=social) ![GitHub Followers](https://img.shields.io/github/followers/Special-Niewbie?label=Follow)   ![GitHub User's stars](https://img.shields.io/github/stars/Special-Niewbie?affiliations=OWNER%2CCOLLABORATOR)   
 
-
 ![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?url=https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=your-paypal-id)
 ![Ko-fi](https://img.shields.io/badge/Ko--fi-donate-red?logo=ko-fi&style=for-the-badge&url=https://ko-fi.com/special_niewbie)
 
 </div>
 
 <!-- TABLE OF CONTENTS -->
+
 <h2>Getting Started</h2>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img src="Git_Assets/hos_icon.png" alt="HandleOS Logo" height="32">
+    <a href="https://www.handle-os.com" style="font-size: 2.2em; text-decoration: none;">
+        HandleOS Official Website 
+    </a>
+</div>
+
+
 <ul>
-  <li><a href="https://github.com/Special-Niewbie/HandleOS" style="font-size: 1.2em; margin-bottom: 10px; display: block;">HandleOS</a></li>
+  <li><a href="https://github.com/Special-Niewbie/HandleOS" style="font-size: 1.2em; margin-bottom: 10px; display: block;">HandleOS here in GitHub</a></li>
   <li>    
     <img height="160" src="https://github.com/Special-Niewbie/HandleOS/raw/main/Git_assets/HandleOS_Box.png" alt="HandleOS Box" style="display: block; margin-top: 10px;"> <img height="260" src="https://github.com/Special-Niewbie/HandleOS/raw/main/Git_assets/HandleOS_GitVid.gif"/>
   </li>
 </ul>
+
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Special-Niewbie&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
