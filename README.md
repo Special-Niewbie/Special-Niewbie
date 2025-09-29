@@ -13,20 +13,21 @@
 
 <h2>Getting Started</h2>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="Git_Assets/hos_icon.png" alt="HandleOS Logo" height="32">
-    <a href="https://www.handle-os.com" style="font-size: 2.2em; text-decoration: none;">
-        HandleOS Official Website 
-    </a>
+
+
+<div style="text-align: center; margin-bottom: 20px;">
+  <img height="42" src="https://github.com/Special-Niewbie/HandleOS/raw/main/Git_assets/hos_icon.png" alt="HandleOS Icon" style="display: block; margin: 0 auto;">
 </div>
 
-
 <ul>
+  <li><a href="https://www.handle-os.com" style="font-size: 1.2em; margin-bottom: 10px; display: block;">HandleOS Official Website</a></li>
+<br>
   <li><a href="https://github.com/Special-Niewbie/HandleOS" style="font-size: 1.2em; margin-bottom: 10px; display: block;">HandleOS here in GitHub</a></li>
   <li>    
     <img height="160" src="https://github.com/Special-Niewbie/HandleOS/raw/main/Git_assets/HandleOS_Box.png" alt="HandleOS Box" style="display: block; margin-top: 10px;"> <img height="260" src="https://github.com/Special-Niewbie/HandleOS/raw/main/Git_assets/HandleOS_GitVid.gif"/>
   </li>
 </ul>
+
 
 
 <div align="center">
